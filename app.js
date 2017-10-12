@@ -7,7 +7,7 @@
 */
 function factorial(n) {
     let result = 1;
-    // TODO このコメントを消して正しく実装してください。
+    // 階乗に変更
     for (let i = 1; i <= n; i++){
         result = result * i;
     }
